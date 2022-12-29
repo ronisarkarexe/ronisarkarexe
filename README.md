@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif)(https://github.com/ronisarkarexe)
+[![MasterHead](https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif)](https://github.com/ronisarkarexe)
 <h1 align="center">Hi 👋, I'm Roni Chandra Sarkar</h1>
 <h3 align="center">I am a Full-stack Developer</h3>
 
