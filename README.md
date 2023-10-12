@@ -49,4 +49,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronisarkarexe&" alt="ronisarkarexe" /></p>
 
-[![An image of @ronisarkarexe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ronisarkarexe)](https://holopin.io/@ronisarkarexe
+[![An image of @ronisarkarexe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ronisarkarexe)](https://holopin.io/@ronisarkarexe)
