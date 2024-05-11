@@ -74,5 +74,9 @@
 </table>
 
 <hr style="border:2px solid gray"> </hr>
+  <h1 align="left">My Trophies 😁</h1>
+<p align="left"> <a href="https://github.com/ronisarkarexe"><img src="https://github-profile-trophy.vercel.app/?username=ronisarkarexe" alt="ronisarkarexe"/></a> </p>
+
+<hr style="border:2px solid gray"> </hr>
   <h1 align="left">My Badges 😁</h1>
 <p align="left"> <a href="https://holopin.io/@ronisarkarexe"><img src="https://holopin.io/api/user/board?user=ronisarkarexe"/></a> </p>
