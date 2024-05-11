@@ -51,4 +51,4 @@
 
 <hr style="border:2px solid gray"> </hr>
   <h1 align="left">My Badges 😁</h1>
-[![An image of @ronisarkarexe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ronisarkarexe)](https://holopin.io/@ronisarkarexe)
+<p align="left"> <a href="https://holopin.io/@ronisarkarexe"><img src="https://holopin.io/api/user/board?user=ronisarkarexe"/></a> </p>
