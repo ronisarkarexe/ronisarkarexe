@@ -43,6 +43,8 @@
 </a> 
 </p>
 
+<hr style="border:2px solid gray"> </hr>
+  <h1 align="left">My Badges 😁</h1>
 <p margin="10px 0px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronisarkarexe&show_icons=true&locale=en&layout=compact" alt="ronisarkarexe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronisarkarexe&show_icons=true&locale=en" alt="ronisarkarexe" /></p>
