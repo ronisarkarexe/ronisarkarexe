@@ -43,12 +43,12 @@
 </a> 
 </p>
 
-<hr style="border:2px solid gray"> </hr>
-  <h1 align="left">My Badges 😁</h1>
 <p margin="10px 0px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronisarkarexe&show_icons=true&locale=en&layout=compact" alt="ronisarkarexe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronisarkarexe&show_icons=true&locale=en" alt="ronisarkarexe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronisarkarexe&" alt="ronisarkarexe" /></p>
 
+<hr style="border:2px solid gray"> </hr>
+  <h1 align="left">My Badges 😁</h1>
 [![An image of @ronisarkarexe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ronisarkarexe)](https://holopin.io/@ronisarkarexe)
