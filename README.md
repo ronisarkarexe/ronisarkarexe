@@ -70,12 +70,19 @@
           <td><img alt="Issues" src="https://img.shields.io/github/issues/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=343b41"/></td>
       </tr>
-    <tr>
+      <tr>
           <td><a href="https://github.com/ronisarkarexe/Hungry-hero"><b>Hungry-hero</b></a></td>
           <td><img alt="Stars" src="https://img.shields.io/github/stars/Anandsg/Hungry-hero?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/Anandsg/Hungry-hero?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Issues" src="https://img.shields.io/github/issues/Anandsg/Hungry-hero?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Anandsg/Hungry-hero?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+      <tr>
+          <td><a href="https://github.com/ronisarkarexe/DevXClub"><b>DevXClub</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/The-Xiting-Way/DevXClub?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/The-Xiting-Way/DevXClub?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/The-Xiting-Way/DevXClub?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/The-Xiting-Way/DevXClub?style=flat-square&labelColor=343b41"/></td>
       </tr>
   </tbody>
 </table>
