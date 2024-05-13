@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronisarkarexe&label=Profile%20views&color=0e75b6&style=flat" alt="ronisarkarexe" /> </p>
 
-- 🌱 I’m currently learning **PostgreSQL, Prisma, DSA, DBMS, NEXT.JS**
+- 🌱 I’m currently learning **React-Native, DSA, DBMS, NEXT.JS**
 
-- 💬 Ask me about **MERN, Javascript ,Typescript**
+- 💬 Ask me about **MERN, Javascript, Typescript, PostgreSQL, Prisma**
 
 - 📫 How to reach me **ronichandrasarkar@gmail.com**
 
