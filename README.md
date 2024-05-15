@@ -84,6 +84,13 @@
           <td><img alt="Issues" src="https://img.shields.io/github/issues/The-Xiting-Way/DevXClub?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/The-Xiting-Way/DevXClub?style=flat-square&labelColor=343b41"/></td>
       </tr>
+      <tr>
+          <td><a href="https://github.com/ronisarkarexe/BloxAI"><b>BloxAI</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/subhadeeproy3902/BloxAI?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/subhadeeproy3902/BloxAI?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/subhadeeproy3902/BloxAI?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/subhadeeproy3902/BloxAI?style=flat-square&labelColor=343b41"/></td>
+      </tr>
   </tbody>
 </table>
 
