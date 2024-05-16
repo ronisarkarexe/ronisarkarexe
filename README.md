@@ -91,6 +91,13 @@
           <td><img alt="Issues" src="https://img.shields.io/github/issues/subhadeeproy3902/BloxAI?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/subhadeeproy3902/BloxAI?style=flat-square&labelColor=343b41"/></td>
       </tr>
+      <tr>
+          <td><a href="https://github.com/ronisarkarexe/NSCC-BPIT-Website"><b>NSCC-BPIT-Website</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=343b41"/></td>
+      </tr>
   </tbody>
 </table>
 
