@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React-Native, DSA, DBMS, NEXT.JS**
 
-- 💬 Ask me about **MERN, Javascript, Typescript, PostgreSQL, Prisma**
+- 💬 Ask me about **Typescript, PostgreSQL, Prisma**
 
 - 📫 How to reach me **ronichandrasarkar@gmail.com**
 
