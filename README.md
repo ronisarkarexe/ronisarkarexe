@@ -1,110 +1,123 @@
-<h1 align="center">Hi 👋, I'm Roni Chandra Sarkar</h1>
-<h3 align="center">I am a Full-stack Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=header&text=&fontSize=0" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronisarkarexe&label=Profile%20views&color=0e75b6&style=flat" alt="ronisarkarexe" /> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **React-Native, DSA, DBMS, NEXT.JS**
+<h1>
+  Hi there, I'm Roni Chandra Sarkar
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-- 💬 Ask me about **Typescript, PostgreSQL, Prisma**
+<h3>🚀 Full-Stack Developer · Bangladesh</h3>
 
-- 📫 How to reach me **ronichandrasarkar@gmail.com**
+<p><i>Building scalable web apps with clean code and modern tech</i></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ronisarkar76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronisarkar76" height="30" width="40" /></a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=ronisarkarexe&label=Profile%20views&color=534AB7&style=flat)](https://github.com/ronisarkarexe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronisarkar76-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ronisarkar76)
+[![Email](https://img.shields.io/badge/Email-ronichandrasarkar@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronichandrasarkar@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"/>
-</a> 
-</p>
+</div>
 
-<p margin="10px 0px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronisarkarexe&show_icons=true&locale=en&layout=compact" alt="ronisarkarexe" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronisarkarexe&show_icons=true&locale=en" alt="ronisarkarexe" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronisarkarexe&" alt="ronisarkarexe" /></p>
+I'm a passionate full-stack developer from Bangladesh who loves building clean, efficient, and scalable web applications. I enjoy working across the entire stack — from crafting polished UIs to designing robust backend APIs and databases.
 
-</br>
-<hr style="border:2px solid gray"> </hr>
-<h3>Open source projects contributions</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td><a href="https://github.com/ronisarkarexe/Leaderboard-Pro"><b>Leaderboard-Pro</b></a></td>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=343b41"/></td>
-      </tr>
-      <tr>
-          <td><a href="https://github.com/ronisarkarexe/Hungry-hero"><b>Hungry-hero</b></a></td>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/Anandsg/Hungry-hero?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/Anandsg/Hungry-hero?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/Anandsg/Hungry-hero?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Anandsg/Hungry-hero?style=flat-square&labelColor=343b41"/></td>
-      </tr>
-      <tr>
-          <td><a href="https://github.com/ronisarkarexe/DevXClub"><b>DevXClub</b></a></td>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/The-Xiting-Way/DevXClub?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/The-Xiting-Way/DevXClub?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/The-Xiting-Way/DevXClub?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/The-Xiting-Way/DevXClub?style=flat-square&labelColor=343b41"/></td>
-      </tr>
-      <tr>
-          <td><a href="https://github.com/ronisarkarexe/BloxAI"><b>BloxAI</b></a></td>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/subhadeeproy3902/BloxAI?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/subhadeeproy3902/BloxAI?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/subhadeeproy3902/BloxAI?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/subhadeeproy3902/BloxAI?style=flat-square&labelColor=343b41"/></td>
-      </tr>
-      <tr>
-          <td><a href="https://github.com/ronisarkarexe/NSCC-BPIT-Website"><b>NSCC-BPIT-Website</b></a></td>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=343b41"/></td>
-      </tr>
-  </tbody>
-</table>
+- 🔭 Currently working on **full-stack TypeScript applications**
+- 🌱 Currently learning **React Native · DSA · DBMS · Next.js**
+- 💬 Ask me about **TypeScript, PostgreSQL, Prisma, React**
+- 📫 Reach me at **ronichandrasarkar@gmail.com**
+- ⚡ Fun fact: I love contributing to open source projects!
 
-<hr style="border:2px solid gray"> </hr>
-  <h1 align="left">My Trophies 🏆</h1>
-<p align="left"> <a href="https://github.com/ronisarkarexe"><img src="https://github-profile-trophy.vercel.app/?username=ronisarkarexe" alt="ronisarkarexe"/></a> </p>
+---
 
-<hr style="border:2px solid gray"> </hr>
-  <h1 align="left">My Badges 🎉</h1>
-<p align="left"> <a href="https://holopin.io/@ronisarkarexe"><img src="https://holopin.io/api/user/board?user=ronisarkarexe"/></a> </p>
+## 🛠️ Tech Stack
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ronisarkarexe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7&icon_color=1D9E75" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronisarkarexe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=534AB7" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronisarkarexe&theme=tokyonight&hide_border=true&background=0D1117&stroke=534AB7&ring=1D9E75&fire=F0997B&currStreakLabel=534AB7)](https://github.com/ronisarkarexe)
+
+</div>
+
+---
+
+## 🤝 Open Source Contributions
+
+| Project | Stars | Forks | Issues | PRs |
+|---------|-------|-------|--------|-----|
+| [**Leaderboard-Pro**](https://github.com/ronisarkarexe/Leaderboard-Pro) | ![Stars](https://img.shields.io/github/stars/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=0D1117&color=534AB7) | ![Forks](https://img.shields.io/github/forks/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=0D1117&color=1D9E75) | ![Issues](https://img.shields.io/github/issues/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=0D1117) | ![PRs](https://img.shields.io/github/issues-pr/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=0D1117) |
+| [**BloxAI**](https://github.com/ronisarkarexe/BloxAI) | ![Stars](https://img.shields.io/github/stars/subhadeeproy3902/BloxAI?style=flat-square&labelColor=0D1117&color=534AB7) | ![Forks](https://img.shields.io/github/forks/subhadeeproy3902/BloxAI?style=flat-square&labelColor=0D1117&color=1D9E75) | ![Issues](https://img.shields.io/github/issues/subhadeeproy3902/BloxAI?style=flat-square&labelColor=0D1117) | ![PRs](https://img.shields.io/github/issues-pr/subhadeeproy3902/BloxAI?style=flat-square&labelColor=0D1117) |
+| [**Hungry-hero**](https://github.com/ronisarkarexe/Hungry-hero) | ![Stars](https://img.shields.io/github/stars/Anandsg/Hungry-hero?style=flat-square&labelColor=0D1117&color=534AB7) | ![Forks](https://img.shields.io/github/forks/Anandsg/Hungry-hero?style=flat-square&labelColor=0D1117&color=1D9E75) | ![Issues](https://img.shields.io/github/issues/Anandsg/Hungry-hero?style=flat-square&labelColor=0D1117) | ![PRs](https://img.shields.io/github/issues-pr/Anandsg/Hungry-hero?style=flat-square&labelColor=0D1117) |
+| [**DevXClub**](https://github.com/ronisarkarexe/DevXClub) | ![Stars](https://img.shields.io/github/stars/The-Xiting-Way/DevXClub?style=flat-square&labelColor=0D1117&color=534AB7) | ![Forks](https://img.shields.io/github/forks/The-Xiting-Way/DevXClub?style=flat-square&labelColor=0D1117&color=1D9E75) | ![Issues](https://img.shields.io/github/issues/The-Xiting-Way/DevXClub?style=flat-square&labelColor=0D1117) | ![PRs](https://img.shields.io/github/issues-pr/The-Xiting-Way/DevXClub?style=flat-square&labelColor=0D1117) |
+| [**NSCC-BPIT-Website**](https://github.com/ronisarkarexe/NSCC-BPIT-Website) | ![Stars](https://img.shields.io/github/stars/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=0D1117&color=534AB7) | ![Forks](https://img.shields.io/github/forks/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=0D1117&color=1D9E75) | ![Issues](https://img.shields.io/github/issues/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=0D1117) | ![PRs](https://img.shields.io/github/issues-pr/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=0D1117) |
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ronisarkarexe&theme=tokyonight&no-frame=true&column=7)](https://github.com/ronisarkarexe)
+
+</div>
+
+---
+
+## 🎉 Holopin Badges
+
+<div align="center">
+
+[![Holopin Board](https://holopin.io/api/user/board?user=ronisarkarexe)](https://holopin.io/@ronisarkarexe)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+**Thanks for visiting! Let's build something great together 🚀**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=100&section=footer" />
