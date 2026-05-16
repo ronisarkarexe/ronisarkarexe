@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3>🚀 Full-Stack Developer · Bangladesh</h3>
+<h3>🚀 Software Enginner I</h3>
 
 <p><i>Building scalable web apps with clean code and modern tech</i></p>
 
@@ -77,20 +77,6 @@ I'm a passionate full-stack developer from Bangladesh who loves building clean, 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronisarkarexe&theme=tokyonight&hide_border=true&background=0D1117&stroke=534AB7&ring=1D9E75&fire=F0997B&currStreakLabel=534AB7)](https://github.com/ronisarkarexe)
 
 </div>
-
----
-
-## 🤝 Open Source Contributions
-
-| Project | Stars | Forks | Issues | PRs |
-|---------|-------|-------|--------|-----|
-| [**Leaderboard-Pro**](https://github.com/ronisarkarexe/Leaderboard-Pro) | ![Stars](https://img.shields.io/github/stars/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=0D1117&color=534AB7) | ![Forks](https://img.shields.io/github/forks/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=0D1117&color=1D9E75) | ![Issues](https://img.shields.io/github/issues/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=0D1117) | ![PRs](https://img.shields.io/github/issues-pr/OpenLake/Leaderboard-Pro?style=flat-square&labelColor=0D1117) |
-| [**BloxAI**](https://github.com/ronisarkarexe/BloxAI) | ![Stars](https://img.shields.io/github/stars/subhadeeproy3902/BloxAI?style=flat-square&labelColor=0D1117&color=534AB7) | ![Forks](https://img.shields.io/github/forks/subhadeeproy3902/BloxAI?style=flat-square&labelColor=0D1117&color=1D9E75) | ![Issues](https://img.shields.io/github/issues/subhadeeproy3902/BloxAI?style=flat-square&labelColor=0D1117) | ![PRs](https://img.shields.io/github/issues-pr/subhadeeproy3902/BloxAI?style=flat-square&labelColor=0D1117) |
-| [**Hungry-hero**](https://github.com/ronisarkarexe/Hungry-hero) | ![Stars](https://img.shields.io/github/stars/Anandsg/Hungry-hero?style=flat-square&labelColor=0D1117&color=534AB7) | ![Forks](https://img.shields.io/github/forks/Anandsg/Hungry-hero?style=flat-square&labelColor=0D1117&color=1D9E75) | ![Issues](https://img.shields.io/github/issues/Anandsg/Hungry-hero?style=flat-square&labelColor=0D1117) | ![PRs](https://img.shields.io/github/issues-pr/Anandsg/Hungry-hero?style=flat-square&labelColor=0D1117) |
-| [**DevXClub**](https://github.com/ronisarkarexe/DevXClub) | ![Stars](https://img.shields.io/github/stars/The-Xiting-Way/DevXClub?style=flat-square&labelColor=0D1117&color=534AB7) | ![Forks](https://img.shields.io/github/forks/The-Xiting-Way/DevXClub?style=flat-square&labelColor=0D1117&color=1D9E75) | ![Issues](https://img.shields.io/github/issues/The-Xiting-Way/DevXClub?style=flat-square&labelColor=0D1117) | ![PRs](https://img.shields.io/github/issues-pr/The-Xiting-Way/DevXClub?style=flat-square&labelColor=0D1117) |
-| [**NSCC-BPIT-Website**](https://github.com/ronisarkarexe/NSCC-BPIT-Website) | ![Stars](https://img.shields.io/github/stars/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=0D1117&color=534AB7) | ![Forks](https://img.shields.io/github/forks/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=0D1117&color=1D9E75) | ![Issues](https://img.shields.io/github/issues/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=0D1117) | ![PRs](https://img.shields.io/github/issues-pr/namespacecomm/NSCC-BPIT-Website?style=flat-square&labelColor=0D1117) |
-
----
 
 ## 🏆 GitHub Trophies
 
