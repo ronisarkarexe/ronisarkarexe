@@ -13,7 +13,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ronisarkarexe&label=Profile%20views&color=534AB7&style=flat)](https://github.com/ronisarkarexe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronisarkar76-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ronisarkar76)
-[![Twitter](https://img.shields.io/badge/Twitter-ronisarkar__exe-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/ronisarkar_exe)
 [![Email](https://img.shields.io/badge/Email-ronichandrasarkar@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronichandrasarkar@gmail.com)
 
 </div>
